@@ -964,3 +964,6 @@ MIT License
 ## Citation
 
 If this encoding scheme is used in published research, please cite the corresponding repository, software release, or publication associated with this implementation.
+
+## FREE PTM AA Database
+https://drive.google.com/drive/folders/1rFo6Xxff8AzS9buVBT7cWi0rctDpzXAL?usp=sharing
